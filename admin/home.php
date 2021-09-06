@@ -69,7 +69,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Medicina Veterinaria</h5>
                             <p class="card-text" style="height: 3rem;">Conviertete en el próximo gran veterinario.</p>
-                            <a href="veterinaria.php" class="btn btn-success">Más Información</a>
+                            <a href="vistas/veterinaria.php" class="btn btn-success">Más Información</a>
                         </div>
                     </div>
 
@@ -78,7 +78,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Derecho</h5>
                             <p class="card-text" style="height: 3rem;">Se el próximo gran abogado del país.</p>
-                            <a href="derecho.php" class="btn btn-success">Más Información</a>
+                            <a href="vistas/derecho.php" class="btn btn-success">Más Información</a>
                         </div>
                     </div>
                     
@@ -87,7 +87,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Ingeniería Civil</h5>
                             <p class="card-text" style="height: 3rem;">Conviérte en un gran ingeniero civil. </p>
-                            <a href="civil.php" class="btn btn-success">Más Información</a>
+                            <a href="vistas/civil.php" class="btn btn-success">Más Información</a>
                         </div>
                     </div>
                 </div>    
